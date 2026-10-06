@@ -1,0 +1,9 @@
+interface,historical_class,forecast_class,class_changed
+HSK63,A,A,False
+BT40,A,A,False
+BBT40,A,A,False
+HSK100,B,B,False
+BBT50,B,C,True
+CAPTO,B,C,True
+BBT30,C,B,True
+SK40,C,C,False

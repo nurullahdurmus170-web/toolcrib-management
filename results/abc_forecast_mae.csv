@@ -1,0 +1,9 @@
+interface,forecast_period_total,actual_period_total,abs_error
+HSK63,84.3,103,18.7
+BT40,75.6,80,4.4
+BBT40,110.9,144,33.1
+HSK100,48.2,44,4.2
+BBT50,25.8,40,14.2
+SK40,5.2,22,16.8
+BBT30,28.7,20,8.7
+CAPTO,17.3,20,2.7

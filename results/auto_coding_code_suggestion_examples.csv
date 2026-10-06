@@ -1,0 +1,6 @@
+diameter_mm,length_mm,flute_count,aspect_ratio,material,coating,gercek_aile,tahmin_aile,format_sablonu,onerilen_kod_taslagi
+19.49,67.1,0,3.444,HSS,DLC,HL,HL,HL-[TYPE]-[INTERFACE]-[SIZE]-[L]-[SYSTEM],HL-[TYPE]-[INTERFACE]-[SIZE]-[L]-[SYSTEM]
+13.32,87.7,6,6.583,Karbür,TiAlN,DR,RM,RM-[TYPE]-[BR]-[MT]-[DC]-[OAL]-[LU]-[DCONMS],RM-[TYPE]-Karbür-TiAlN-13-88-[LU]-[DCONMS]
+19.33,41.5,4,2.146,HSS,TiN,DW,DW,DW-[BR]-[MT]-[DC]-[OAL]-[ANGLE]-Z[NOF],DW-HSS-TiN-19-42-[ANGLE]-Z4
+33.0,57.5,2,1.743,HSS,TiAlN,TM,TM,TM-[BR]-[MT]-[DC]-[CUTW]-[NECK]-[DCONMS]-Z[NOF],TM-HSS-TiAlN-33-[CUTW]-[NECK]-[DCONMS]-Z2
+8.92,52.0,6,5.833,Karbür,Kaplamasız,RM,EM,EM-[BR]-[MT]-[DC]-[OAL]-[LU]-[APMX]-[DCONMS]-Z[NOF],EM-Karbür-Kaplamasız-9-52-[LU]-[APMX]-[DCONMS]-Z6

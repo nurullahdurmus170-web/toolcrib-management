@@ -1,0 +1,9 @@
+interface,historical_class,forecast_class,class_changed,current_zone,suggested_zone
+HSK63,A,A,False,Zone 1 (operatöre en yakın),Zone 1 (operatöre en yakın)
+BT40,A,A,False,Zone 1 (operatöre en yakın),Zone 1 (operatöre en yakın)
+BBT40,A,A,False,Zone 1 (operatöre en yakın),Zone 1 (operatöre en yakın)
+HSK100,B,B,False,Zone 2 (orta mesafe),Zone 2 (orta mesafe)
+BBT50,B,C,True,Zone 2 (orta mesafe),Zone 3 (arka/az erişilen)
+CAPTO,B,C,True,Zone 2 (orta mesafe),Zone 3 (arka/az erişilen)
+BBT30,C,B,True,Zone 3 (arka/az erişilen),Zone 2 (orta mesafe)
+SK40,C,C,False,Zone 3 (arka/az erişilen),Zone 3 (arka/az erişilen)
